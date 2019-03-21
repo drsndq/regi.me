@@ -53,3 +53,7 @@ function newFact() {
 }
 
 window.onload = newFact();
+
+function refresh() {
+    window.location.reload();
+}
