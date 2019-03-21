@@ -30,8 +30,7 @@ function newFact() {
             return fact;
             break;
         case factNumber === 6:
-            fact = 'Fact 6';
-            return fact;
+            return 'UF was founded in 1853';
             break; 
         case factNumber === 7:
             fact = 'Fact 7';
@@ -110,5 +109,6 @@ function newFact() {
             return fact;
             break;
     }
+
 
 }
