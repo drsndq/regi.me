@@ -10,81 +10,105 @@ function newFact() {
 
     switch (factNumber) {
         case factNumber === 1:
-            return 'Fact One';
+            fact = 'Fact One';
+            return fact;
             break;
         case factNumber === 2:
-            return 'Fact Two';
+            fact = 'Fact Two';
+            return fact;
             break;
         case factNumber === 3:
-            return 'Fact Three';
+            fact = 'Fact Three';
+            return fact;
             break;
         case factNumber === 4:
-            return 'Fact Four';
+            fact = 'Fact Four';
+            return fact;
             break;
         case factNumber === 5:
-            return 'Fact Five';
+            fact = 'Fact Five';
+            return fact;
             break;
         case factNumber === 6:
-            return 'Fact 6';
+            fact = 'Fact 6';
+            return fact;
             break; 
         case factNumber === 7:
-            return 'Fact 7';
+            fact = 'Fact 7';
+            return fact;
             break;
         case factNumber === 8:
-            return 'Fact 8';
+            fact = 'Fact 8';
+            return fact;
             break;
         case factNumber === 9:
-            return 'Fact 9';
+            fact = 'Fact 9';
+            return fact;
             break;
         case factNumber === 10:
-            return 'Fact 10';
+            fact = 'Fact 10';
+            return fact;
             break;
         case factNumber === 11:
-            return 'Fact 11';
+            fact = 'Fact 11';
+            return fact;
             break;
         case factNumber === 12:
-            return 'Fact 12';
+            fact = 'Fact 12';
+            return fact;
             break; 
         case factNumber === 13:
-            return 'Fact 13';
+            fact = 'Fact 13';
+            return fact;
             break;
         case factNumber === 14:
-            return 'Fact 14';
+            fact = 'Fact 14';
+            return fact;
             break;
         case factNumber === 15:
-            return 'Fact 15';
+            fact = 'Fact 15';
+            return fact;
             break;
         case factNumber === 16:
-            return 'Fact 16';
+            fact = 'Fact 16';
+            return fact;
             break;
         case factNumber === 17:
-            return 'Fact 17';
+            fact = 'Fact 17';
+            return fact;
             break;
         case factNumber === 18:
-            return 'Fact 18';
+            fact = 'Fact 18';
+            return fact;
             break;
         case factNumber === 19:
-            return 'Fact 19';
+            fact = 'Fact 19';
+            return fact;
             break;
         case factNumber === 20:
-            return 'Fact 20';
+            fact = 'Fact 20';
+            return fact;
             break;
         case factNumber === 21:
-            return 'Fact 21';
+            face = 'Fact 21';
+            return fact;
             break;
         case factNumber === 22:
-            return 'Fact 22';
+            fact = 'Fact 22';
+            return fact;
             break;
         case factNumber === 23:
-            return 'Fact 23';
+            fact = 'Fact 23';
+            return fact;
             break;
         case factNumber === 24:
-            return 'Fact 24';
+            face = 'Fact 24';
+            return fact;
             break;  
         case factNumber === 25:
-            return 'Fact 25';
+            face = 'Fact 25';
+            return fact;
             break;
     }
-
 
 }
